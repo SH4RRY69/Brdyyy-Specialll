@@ -1,0 +1,6 @@
+{
+  "name": "Birthday Celebration For Alihaaa",
+  "description": "A premium, fully responsive, interactive 3D birthday celebration experience dedicated to someone special with 3D cake, wishes, memories, and ambient music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
